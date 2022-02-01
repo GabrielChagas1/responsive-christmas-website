@@ -1,6 +1,6 @@
 <div align="center">
     <h1 align="center">Create a Responsive Christmas Website Design Using HTML CSS & JavaScript ⛄️</h1>
-    <p>Criação de um site com tema sobre Halloween para treino e fixação de conteúdo.</p>
+    <p>Criação de um site com tema sobre Natal para treino e fixação de conteúdo.</p>
     <img src="./design/preview.png" alt="Logo" width="800">
 </div>
 
@@ -21,11 +21,12 @@
 * [Links Contato](#links-contato)
 
 # Descrição
-Criação da interface do WhatsApp Web para treino e fixação dos conteúdos aprendendido durante a aula [**@OBedimCode**](https://www.youtube.com/channel/UCgkDs77BoEhMIgRUB4MKrtQ)
+Criação da interface do WhatsApp Web para treino e fixação dos conteúdos aprendendido durante a aula [**@BedimCode**](https://www.youtube.com/channel/UCgkDs77BoEhMIgRUB4MKrtQ)
 
 # Techs: 
 - **HTML**
 - **CSS**
+- **JAVASCRIPT**
 
 # Design:
 - O modelo final para desktop está disponível na pasta `./design`
